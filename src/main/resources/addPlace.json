@@ -1,0 +1,16 @@
+{
+  "location": {
+    "lat": -200.00000,
+    "lng": 420.11000
+  },
+  "accuracy": 100,
+  "name": "Jose V",
+  "phone_number": "(+11) 111 000 0000",
+  "address": "300, side layout, choen 1000",
+  "types": [
+    "shoe park",
+    "shop"
+  ],
+  "website": "http://rahulshettyacademy.com",
+  "language": "Spanish-MX"
+}
